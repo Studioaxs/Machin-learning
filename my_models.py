@@ -27,7 +27,6 @@ class LinearRegression():
         PARAMETERS :
         - X (ndarray) : Features array;
         - Y (ndarray) : Targets array;
-        - d (int) : Polynom degree
         - α (float) : Learning rate;
         - epochs (int) : Number of training epochs
         OUTPUT :
@@ -80,7 +79,7 @@ class PolyRegression():
         PARAMETERS :
         - X (ndarray) : Features array;
         - Y (ndarray) : Targets array;
-        - d (int) : Polynom degree
+        - d (int) : Polynom degree;
         - α (float) : Learning rate;
         - epochs (int) : Number of training epochs
         OUTPUT :
